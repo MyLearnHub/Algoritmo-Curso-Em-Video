@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="100px" src="assets/curso_em_video_logo.png" alt="Logo do Curso em Vídeo" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=cev" alt="Logo do Curso em Vídeo" />
   <h3 align="center">Algoritmo - Curso em Vídeo</h3>
 </div>
 
-# 🎯Objetivo
+# 🔍Visão Geral
   Este curso oferece uma introdução completa à algoritmos e lógica de programação, utilizando ferramentas visuais como VisualG e Scratch para facilitar o aprendizado. Os conteúdos cobrem desde comandos de saída e entrada, operadores lógicos e relacionais, até estruturas condicionais e de repetição, proporcionando uma base sólida para o desenvolvimento de algoritmos. Além disso, o curso explora conceitos avançados como procedimentos, funções, vetores e matrizes, essenciais para manipulação de dados e construção de programas mais complexos. Meu objetivo é dominar esses fundamentos da lógica de programação e aplicar as técnicas aprendidas para resolver problemas de maneira eficiente e estruturada.
 
 # 📚Conteúdo Abordado
